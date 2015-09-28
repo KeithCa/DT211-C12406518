@@ -4,3 +4,5 @@ def palindrome(num):
     else:
        return False
 //second
+
+print palindrome('please')
