@@ -3,3 +3,5 @@ def palindrome(num):
        return True
     else:
        return False
+
+print palindrome('sos')
