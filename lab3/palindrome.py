@@ -3,3 +3,4 @@ def palindrome(num):
        return True
     else:
        return False
+//second
